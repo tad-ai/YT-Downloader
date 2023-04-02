@@ -2,6 +2,8 @@
 
 YTDownloader is a simple YouTube downloader web application built using Django and the Pytube Python library. It allows users to enter the URL of a YouTube video and download it in various formats.
 
+![](img/demo.png)
+
 ## **Getting Started**
 
 To get started with YTDownloader, you will need to clone this repository to your local machine. You can do this using the following command:
