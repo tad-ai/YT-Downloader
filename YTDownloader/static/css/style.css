@@ -1,0 +1,32 @@
+body{
+    background: #e0e4e7;
+    }
+    
+    .effect{
+        background: #e0e4e7;
+        box-shadow: 5px 5px 13px #b8c7dd,
+        -5px -5px 13px #ffffff;
+    }
+    
+    .effect-inner{
+        background:#e0e4e7 ;
+        box-shadow: inset 4px 3px 3px 0px #b8c7dd,
+        inset -2px -4px 4px 0px #ffffff;
+    }
+    
+    .title{
+        color:red;
+    }
+    
+    
+    .app-color-gray {
+        color: #646464;
+    }
+    
+    input[type=text]{
+        background: None;
+    }
+    
+    input[type=text]:focus{
+        outline: None;
+    }
